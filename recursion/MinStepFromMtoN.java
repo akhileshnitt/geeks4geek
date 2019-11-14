@@ -19,5 +19,6 @@ public class MinStepFromMtoN {
             return 1;
         }
         return 1+Math.min(minStep(m-1,n),minStep(m*2,n));
+
     }
 }

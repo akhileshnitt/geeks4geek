@@ -5,7 +5,7 @@ public class EqualSum {
     public static void main(String[] args) {
        // int a [] = {5,5,1,11};
        // 22/2 = 11
-        //int sum = 11;
+        //int add = 11;
 
 
 

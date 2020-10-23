@@ -8,9 +8,9 @@ public class Test1 {
 
 
     public static void main(String[] args) {
-        int number = 101;
+        int number = 999999999;
 
-        DecimalFormat df = new DecimalFormat("#.####");
+        DecimalFormat df = new DecimalFormat("#.############");
         df.setRoundingMode(RoundingMode.CEILING);
 
         double root = findSquareRoot(number,1,number);
